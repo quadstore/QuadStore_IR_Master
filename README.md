@@ -1,4 +1,4 @@
- # QUADSTORE_IR for micro-bit
+ # Mbit_IR for micro-bit
 
 Extension for Mbit_IR
 

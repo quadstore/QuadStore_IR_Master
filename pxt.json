@@ -1,8 +1,9 @@
 {
-    "name": "OSOYOO_IR",
+    "name": "QUADSTORE_IR",
     "version": "1.0.0",
-    "description": "Extension for OSOYOO PnP IR receiver module",
+    "description": "Extension for QUADSTORE IR receiver module",
     "license": "MIT",
+    "Website": "www.quadstore.in"
     "dependencies": {
         "core": "*"
     },

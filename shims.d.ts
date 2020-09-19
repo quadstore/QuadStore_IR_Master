@@ -4,7 +4,7 @@
 
     //% color="#31C7D5" weight=19
     //% icon="\uf1eb"
-declare namespace OSOYOO_IR {
+declare namespace QUADSTORE_IR {
 
     /**
      * button pushed.

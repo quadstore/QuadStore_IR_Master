@@ -1,8 +1,8 @@
- # OSOYOO_IR for micro-bit
+ # QUADSTORE_IR for micro-bit
 
-Extension for OSOYOO_IR
+Extension for QUADSTORE_IR
 
-Note: IR receiver for OSOYOO receiver
+Note: IR receiver for QUADSTORE receiver
 
 ## License
 
